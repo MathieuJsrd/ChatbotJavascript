@@ -1,0 +1,20 @@
+{
+  "name": "td1_chatbot",
+  "version": "1.0.0",
+  "description": "testClasse",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Rosalie18"
+  ],
+  "author": "Mathieu",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "readline-sync": "^1.4.9",
+    "regex": "^0.1.1",
+    "xregexp": "^4.2.4"
+  }
+}
